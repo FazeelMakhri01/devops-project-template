@@ -1,2 +1,8 @@
-# devops-project-template
-Template repo for all the devops project
+# Project name
+## What it does
+## Architecture
+## How to run
+## How to destroy
+## Cost
+## What I learn
+
