@@ -113,3 +113,4 @@ temp/
 .cache/
 .parcel-cache/
 .turbo/
+.DS_Store
