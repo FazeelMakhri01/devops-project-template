@@ -1,0 +1,7 @@
+name: ______
+on: ______
+jobs:
+  ______:
+    runs-on: ______
+    steps:
+      - run: echo "______"
