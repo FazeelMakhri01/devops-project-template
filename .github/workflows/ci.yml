@@ -1,16 +1,16 @@
 name: CI
 
 on:
-pull_request:
-branches:
-- main
+ pull_request:
+  branches:
+    - main
 
 jobs:
-basic-check:
-runs-on: ubuntu-latest
+  basic-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-steps:
-  - name: Checkout repository
-    uses: actions/checkout@v4
-  - name: Run CI stub
-    run: echo "CI pipeline is running successfully!"
+      - name: Run CI stub
+        run: echo "CI pipeline is running successfully!"
