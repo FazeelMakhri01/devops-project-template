@@ -79,7 +79,6 @@ IDE / Editors
 .idea/
 *.swp
 *.swo
-.DS_Store
 
 ==============================
 
@@ -113,5 +112,4 @@ temp/
 .cache/
 .parcel-cache/
 .turbo/
-.DS_Store
 
