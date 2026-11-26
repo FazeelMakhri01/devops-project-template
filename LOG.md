@@ -1,1 +1,6 @@
-# Always Log, what broken and what you observed and what approach you took to fix it
+# Always log what broke, what you observed, and how you fixed it
+
+## YYYY-MM-DD
+- Did:
+- Broke:
+- Fixed:
